@@ -1,0 +1,8 @@
+streamlit == 1.43.1
+plotly ==  6.0.0
+numpy == 2.2.3
+pandas == 2.2.3
+
+##  pip list freeze  ##
+
+## git init
